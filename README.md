@@ -30,4 +30,33 @@ BE_Zalo_CNM là dự án Backend cho ứng dụng Zalo CNM, được phát tri�
 4. Chạy server: `npm start`
 
 ## Demo
+1. Đăng nhập
 ![Đăng nhập](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/1.PNG)
+2. Đăng ký
+![Đăng ký](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/2.PNG)
+3. Quên mật khẩu
+![Quên mật khẩu](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/3.PNG)
+4. Trang chủ
+![Trang chủ](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/4.PNG)
+5. Danh sách bạn bè
+![Danh sách bạn bè](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/5.PNG)
+6.Danh sách lời mời kết bạn
+![Danh sách lời mời kết bạn](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/6.PNG)
+7. Tìm kiếm bạn bè
+![Tìm kiếm bạn bè](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/7.PNG)
+8. Thêm nhóm mới
+![Thêm nhóm mới](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/8.PNG)
+9. Danh sách nhóm
+![Danh sách nhóm](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/9.PNG)
+10. Quản lý nhóm
+![Quản lý nhóm](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/10.PNG)
+11. Quản lý thành viên nhóm
+![Quản lý thành viên nhóm](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/11.PNG)
+12. Quản lý quyền nhóm
+![Quản lý quyền nhóm](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/12.PNG)
+13. Chat đơn
+![Chat đơn](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/13.PNG)
+14. Chat nhóm
+![Chat nhóm](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/14.PNG)
+15. Trang cá nhân
+![Trang cá nhân](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/15.PNG)
