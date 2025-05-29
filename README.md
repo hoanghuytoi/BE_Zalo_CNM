@@ -4,6 +4,7 @@
 BE_Zalo_CNM là dự án Backend cho ứng dụng Zalo CNM, được phát triển để hỗ trợ các chức năng và dịch vụ cho ứng dụng Zalo. Dự án này cung cấp các API và dịch vụ cần thiết để đảm bảo hoạt động mượt mà của ứng dụng Zalo CNM.
 
 ## Liên kết liên quan
+- [Backend Zalo(be_zalo__cnm)](https://github.com/hoanghuytoi/BE_Zalo_CNM.git)
 - [Frontend Mobile Zalo(fe_mobile__cnm)](https://github.com/hoanghuytoi/FE_MOBILE_CNM.git)
 - [Frontend Web Zalo(fe_web_cnm)](https://github.com/hoanghuytoi/FE_WEB_CNM.git)
 
