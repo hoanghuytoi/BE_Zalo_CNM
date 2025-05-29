@@ -30,6 +30,4 @@ BE_Zalo_CNM là dự án Backend cho ứng dụng Zalo CNM, được phát tri�
 4. Chạy server: `npm start`
 
 ## Demo
-![Demo giao diện ứng dụng]()
-
 ![Đăng nhập](https://github.com/hoanghuytoi/BE_Zalo_CNM/blob/main/demo/1.PNG)
